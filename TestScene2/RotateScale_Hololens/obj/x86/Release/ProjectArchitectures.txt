@@ -1,0 +1,2 @@
+D:\Unity Project\RotateScale-HololensApp-Project2\TestScene2\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\Unity Project\RotateScale-HololensApp-Project2\TestScene2\RotateScale_Hololens\RotateScale_Hololens.csproj;x86

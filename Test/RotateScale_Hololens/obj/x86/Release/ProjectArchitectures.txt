@@ -1,0 +1,2 @@
+C:\Users\User\OneDrive\Documents\RotateScale_Hololens-master\Test\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\User\OneDrive\Documents\RotateScale_Hololens-master\Test\RotateScale_Hololens\RotateScale_Hololens.csproj;x86

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateScale_Hololens-master", "RotateScale_Hololens-master.csproj", "{AB21D22D-13DE-5CD4-DD88-A447F4E7BEFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateScale_Hololens-master.Editor", "RotateScale_Hololens-master.Editor.csproj", "{6646E108-3DFA-D19E-E48F-19E73691FEE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB21D22D-13DE-5CD4-DD88-A447F4E7BEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB21D22D-13DE-5CD4-DD88-A447F4E7BEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB21D22D-13DE-5CD4-DD88-A447F4E7BEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB21D22D-13DE-5CD4-DD88-A447F4E7BEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6646E108-3DFA-D19E-E48F-19E73691FEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6646E108-3DFA-D19E-E48F-19E73691FEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6646E108-3DFA-D19E-E48F-19E73691FEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6646E108-3DFA-D19E-E48F-19E73691FEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

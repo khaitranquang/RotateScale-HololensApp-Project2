@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>RotateScale_Hololens</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\User\OneDrive\Documents\RotateScale_Hololens-master\Test\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\User\OneDrive\Documents\RotateScale_Hololens-master\</UnityProjectDir>
+        <UnityWSAPlayerDir>D:\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
